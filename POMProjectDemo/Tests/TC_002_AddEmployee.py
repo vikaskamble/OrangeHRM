@@ -1,22 +1,22 @@
 from selenium import webdriver
-import time
-import sys
+from POMProjectDemo.BaseClass.BaseClass import BaseClass
+from POMProjectDemo.Tests.Login import Login_Test
 import os
-sys.path.append(os.path.join(os.path.dirname(__file__),"..",".."))
 import unittest
-from POMProjectDemo.Pages.LoginPage import LoginPage
+import sys
+import time
+sys.path.append(os.path.join(os.path.dirname(__file__),"..",".."))
 from pyunitreport import HTMLTestRunner
 from os.path import dirname, abspath
-from POMProjectDemo.BaseClass.BaseClass import BaseClass
-
+from POMProjectDemo.Pages.LoginPage import LoginPage
+from POMProjectDemo.Pages.HomePage import HomePage
 
 d = dirname(dirname(dirname(abspath(__file__))))
-# print("Test Path", d)
-# print(d+"\ReportTest")
 
-class Login_Test(BaseClass):
 
-    def test_Login_Valid(self):
+class AddEmpoyee(BaseClass):
+
+    def test_add_Employee(self):
         print("Start Login valid Test....")
         driver = self.driver
         login = LoginPage(driver)
@@ -24,8 +24,11 @@ class Login_Test(BaseClass):
         login.enter__password("admin123")
         login.click_login()
         login.isLoginSuccess()
-        login.logOutApplictaion()
         print("Login Test Executed Successfully...")
+        homePage = HomePage(driver)
+        homePage.clickOnPIM_Tab()
+        time.sleep(4)
+
 
 
 
@@ -34,4 +37,3 @@ if __name__ == "__main__":
     # unittest.main(testRunner=HTMLTestRunner(output="C://Users//vikas.k//PycharmProjects//UIAutomationFrameWork//ReportTest"))
     d = os.path.join(dirname(dirname(dirname(abspath(__file__)))), 'ReportTest')
     unittest.main(testRunner=HTMLTestRunner(output=d))
-
