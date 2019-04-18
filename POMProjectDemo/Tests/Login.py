@@ -25,6 +25,7 @@ class Login_Test(BaseClass):
         login.click_login()
         login.isLoginSuccess()
         login.logOutApplictaion()
+        print("Login Test Executed Successfully...")
 
 if __name__ == "__main__":
     # unittest.main(testRunner=HTMLTestRunner(output="C://Users//vikas.k//PycharmProjects//UIAutomationFrameWork//ReportTest"))
