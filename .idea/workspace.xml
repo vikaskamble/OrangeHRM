@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="955e536a-e53d-4d75-b6db-1a384cda34cd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POMProjectDemo/BaseClass/BaseClass.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/suite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2592">
+              <caret line="123" column="28" lean-forward="true" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/POMProjectDemo/Locators/Locators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POMProjectDemo/Tests/Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestSuite/TestSuite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestSuite/MyTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POMProjectDemo/BaseClass/GetConfigData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/configparser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="701" selection-start-line="701" selection-end-line="701" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="220" selection-start-line="220" selection-end-line="220" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pageAction/Login_Action.py" />
+        <option value="$PROJECT_DIR$/test/Test.py" />
+        <option value="$PROJECT_DIR$/POMProjectDemo/Locators/Locators.py" />
+        <option value="$PROJECT_DIR$/POMProjectDemo/Pages/LoginPage.py" />
+        <option value="$PROJECT_DIR$/pageAction/BaseClass.py" />
+        <option value="$PROJECT_DIR$/test/MyTest.py" />
+        <option value="$PROJECT_DIR$/POMProjectDemo/Config.config" />
+        <option value="$PROJECT_DIR$/POMProjectDemo/Tests/cc" />
+        <option value="$PROJECT_DIR$/POMProjectDemo/Prop" />
+        <option value="$PROJECT_DIR$/baseClass/BaseClass.py" />
+        <option value="$PROJECT_DIR$/POMProjectDemo/Tests/Login.py" />
+        <option value="$PROJECT_DIR$/TestSuite/MyTest.py" />
+        <option value="$PROJECT_DIR$/POMProjectDemo/BaseClass/BaseClass.py" />
+        <option value="$PROJECT_DIR$/TestSuite/TestSuite.py" />
+        <option value="$PROJECT_DIR$/POMProjectDemo/BaseClass/GetConfigData.py" />
+        <option value="$PROJECT_DIR$/config.conf" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UIAutomationFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomationFrameWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomationFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomationFrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="POMProjectDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomationFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomationFrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="TestSuite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vikas.k\PycharmProjects\UIAutomationFrameWork\DRIVER" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TestSuite">
+    <configuration name="GetConfigData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UIAutomationFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMProjectDemo/BaseClass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POMProjectDemo/BaseClass/GetConfigData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UIAutomationFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSuite/MyTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSuite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UIAutomationFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSuite/TestSuite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for BaseClass.BaseClass" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UIAutomationFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMProjectDemo/BaseClass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;BaseClass.BaseClass&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Login.Login_Test.test_Login_Valid" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UIAutomationFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMProjectDemo/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Login.Login_Test.test_Login_Valid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logintest" type="tests" factoryName="Unittests">
+      <module name="UIAutomationFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\vikas.k\PycharmProjects\UIAutomationFrameWork\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;POMProjectDemo.Tests.Login.Login_Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GetConfigData" />
+      <item itemvalue="Python tests.logintest" />
+      <item itemvalue="Python tests.Unittests for Login.Login_Test.test_Login_Valid" />
+      <item itemvalue="Python.TestSuite" />
+      <item itemvalue="Python.MyTest" />
+      <item itemvalue="Python tests.Unittests for BaseClass.BaseClass" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TestSuite" />
+        <item itemvalue="Python tests.Unittests for BaseClass.BaseClass" />
+        <item itemvalue="Python.MyTest" />
+        <item itemvalue="Python.GetConfigData" />
+        <item itemvalue="Python tests.Unittests for Login.Login_Test.test_Login_Valid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="955e536a-e53d-4d75-b6db-1a384cda34cd" name="Default Changelist" comment="" />
+      <created>1555313692777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555313692777</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Login_py - 2019.04.16 at 18h 29m 35s.xml">
+      <configuration name="Unittests in Login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Login_py - 2019.04.16 at 18h 31m 35s.xml">
+      <configuration name="Unittests in Login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Login_py - 2019.04.16 at 18h 33m 30s.xml">
+      <configuration name="Unittests in Login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Login_py - 2019.04.17 at 10h 39m 40s.xml">
+      <configuration name="Unittests in Login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Login_py - 2019.04.17 at 12h 29m 27s.xml">
+      <configuration name="Unittests in Login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Login_Login_Test_test_Login_Valid - 2019.04.17 at 12h 31m 55s.xml">
+      <configuration name="Unittests for Login.Login_Test.test_Login_Valid" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Login_py - 2019.04.17 at 14h 41m 37s.xml">
+      <configuration name="Unittests in Login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Login_Login_Test_test_Login_Valid - 2019.04.17 at 15h 25m 31s.xml">
+      <configuration name="Unittests for Login.Login_Test.test_Login_Valid" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_BaseClass_BaseClass - 2019.04.17 at 18h 52m 31s.xml">
+      <configuration name="Unittests for BaseClass.BaseClass" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_BaseClass_BaseClass - 2019.04.18 at 11h 20m 23s.xml">
+      <configuration name="Unittests for BaseClass.BaseClass" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18675596" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3747954" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24386252" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/POMProjectDemo/BaseClass/BaseClass.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMProjectDemo/Tests/reports/Report/2019-04-16-16-30-13.html" />
+    <entry file="file://$PROJECT_DIR$/ReportTest/2019-04-16-16-54-26.html" />
+    <entry file="file://$PROJECT_DIR$/POMProjectDemo/Config" />
+    <entry file="file://$PROJECT_DIR$/POMProjectDemo/Tests/cc" />
+    <entry file="file://$PROJECT_DIR$/pageAction/Login_Action.py" />
+    <entry file="file://$PROJECT_DIR$/POMProjectDemo/Prop">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageAction/BaseClass.py" />
+    <entry file="file://$PROJECT_DIR$/test/MyTest.py" />
+    <entry file="file://$PROJECT_DIR$/test/Test.py" />
+    <entry file="file://$PROJECT_DIR$/baseClass/BaseClass.py" />
+    <entry file="file://$PROJECT_DIR$/POMProjectDemo/Pages/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMProjectDemo/Tests/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSuite/MyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSuite/TestSuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMProjectDemo/BaseClass/GetConfigData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMProjectDemo/BaseClass/BaseClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2592">
+          <caret line="123" column="28" lean-forward="true" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POMProjectDemo/Locators/Locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
